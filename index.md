@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Marc's coding bank!!! Here, you can view my code (basically python)
 
 You can use the [editor on GitHub](https://github.com/Marcsun666/marcs-coding-bank.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
